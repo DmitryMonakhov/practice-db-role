@@ -1,4 +1,4 @@
 Role Name
 =========
 
-Role `db` for ansible-4 practice
+External role `db` for ansible-4 practice
